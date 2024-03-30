@@ -1,1 +1,1 @@
-Hello welcome to the git environment
+Hello welcome to the git environment practice session
